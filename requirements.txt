@@ -1,0 +1,1 @@
+ultralytics>=8.4.110\ntorch\ntorchvision\nnumpy\nPyYAML\npandas\nscikit-learn\nPillow\nopencv-python\n

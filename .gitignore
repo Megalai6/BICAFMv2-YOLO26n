@@ -1,0 +1,1 @@
+data/*\n!data/README.md\ncheckpoints/*\n!checkpoints/README.md\nresults/raw/*\n!results/raw/README.md\nresults/processed/*\n!results/processed/README.md\nruns/\n*.pt\n*.pth\n*.onnx\n*.engine\n.venv/\n__pycache__/\n*.py[cod]\n.env\n
